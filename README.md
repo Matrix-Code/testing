@@ -23,26 +23,22 @@ be embedded with a Bluetooth Low Energy (BLE) beacon, which is a low powered. ba
 bluetooth. Beacons that support the Eddystone protocol specification can broadcast URLs. Services on your device such as Google Chrome or Nearby noticication 
 can scan for and display these URLs after passing them through a proxy.
 
-<div hight="700" width="700" align="left">
 <img src="http://www.twinsoft.se/images/beacon.png"alt="2" align="left" width="250" hight="250"	/>
 
 <p align="left">A beacon is a small wireless device which transmits a continuous radio signal.<p>
-</div>
 
 
-<div hight="500" width="500" align="center">
 <img src="https://s21.postimg.org/mjrta3uwn/33e299a6_5bc3_4808_a525_ba60878d364c.jpg"alt="4" align="left" width="250" hight="250"	/>
 </br>
 The signal is detected by nearby smart device via blue tooth.
-</div>
 
-<div hight="500" width="500" align="center">
+
 <img src="https://s11.postimg.org/ck94x7epv/234f64a8_8390_472b_b092_83403eca4a21.jpg" alt="5" align="left" width="250" hight="250"	/>
 </br>
 You will receive a URL link via notification and you can open the link by any browser.
-</div>
 
-<div hight="500" width="500" align="center">
+</br></br>
+
 <h1>Components that make the physical web work:</h1>
 <img src="http://www.twinsoft.se/images/beacon.png"alt="2" align="left" width="250" hight="250"	"/>
 </br>
@@ -61,7 +57,7 @@ Your phone or other mobile devces needs to be setup and ready to detect beacons.
 
 <img src="https://s22.postimg.org/jgug2k1dd/a27100d1_2f10_45b2_aaad_c8ff4891c8bc.jpg" alt="1" align="left" width="250" hight="250"	/>
 The physical object needs a web page.
-</div >
+
 ##Open Design
 The Physical Web must be an open standard that everyone can use. This can’t be a product that is locked down by a single company. Like many web specifications, this is an open source design that is being released early so everyone can experiment and comment on it. There is much to discuss and add to this specification.
 
