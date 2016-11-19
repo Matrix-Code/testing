@@ -25,8 +25,8 @@ can scan for and display these URLs after passing them through a proxy.
 
 <div hight="500" width="500" align="left">
 <img src="http://www.twinsoft.se/images/beacon.png"alt="2" align="left" width="250" hight="250"	/>
-</br>
-A beacon is a small wireless device which transmits a continuous radio signal.
+
+<p align="left">A beacon is a small wireless device which transmits a continuous radio signal.<p>
 </div>
 
 
