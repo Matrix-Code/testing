@@ -23,9 +23,8 @@ be embedded with a Bluetooth Low Energy (BLE) beacon, which is a low powered. ba
 bluetooth. Beacons that support the Eddystone protocol specification can broadcast URLs. Services on your device such as Google Chrome or Nearby noticication 
 can scan for and display these URLs after passing them through a proxy.
 
-<h1>Components that make the physical web work:</h1>
-
-<img src="http://www.twinsoft.se/images/beacon.png"alt="2" align="center"	/>
+<div>
+<img src="http://www.twinsoft.se/images/beacon.png"alt="2" align="left" width="42" hight="42"	/>
 </br>
 A beacon is a small wireless device which transmits a continuous radio signal.
 </br></br>
